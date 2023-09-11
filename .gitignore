@@ -3,3 +3,4 @@ web-applications-with-fastapi-course/
 fastApi.code-workspace
 .pyc
 __pycache__/
+.DS_Store
